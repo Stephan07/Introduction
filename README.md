@@ -1,4 +1,4 @@
-# Introduction (feature_1)
+# Introduction
 This is just now a proper introduction, with some text and it was created during the training.
 
 # First chapter
