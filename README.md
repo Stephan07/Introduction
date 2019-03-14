@@ -1,2 +1,2 @@
 # Introduction
-This is just a Test for the trianing.
+This is just a test for the training.
