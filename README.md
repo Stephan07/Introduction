@@ -14,3 +14,6 @@ This will be the highlight of the story.
 
 # Fifth chapter
 This chapter is about the end of the story.
+
+# Sixth chapter
+Working with Git gui
