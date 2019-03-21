@@ -20,3 +20,6 @@ Working with Git gui
 
 # Seventh chapter
 add chapter seven
+
+# eights chapter
+add chapter eight
