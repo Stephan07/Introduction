@@ -17,3 +17,6 @@ This chapter is about the end of the story.
 
 # Sixth chapter
 Working with Git gui
+
+# Seventh chapter
+add chapter seven
